@@ -36,3 +36,22 @@ RecipeFinder demonstrates the power of modern web technologies to create a delig
 Whether you're a seasoned chef or a kitchen novice, Foodverse invites you to explore, create, and savor culinary delights like never before. 
 Dive into the world of flavors and start cooking up your favorites today!
 
+Screenshots :-
+
+![image](https://github.com/ABHINEET4/RecipeFinder-Application/assets/108821830/e155a047-174b-4c27-924a-fdfd6d5c67da)
+
+
+![image](https://github.com/ABHINEET4/RecipeFinder-Application/assets/108821830/5a155a66-ad5b-48ba-b19d-99c9f07026a7)
+
+
+
+![image](https://github.com/ABHINEET4/RecipeFinder-Application/assets/108821830/119ad374-d94a-485d-8494-6032baabb641)
+
+
+
+
+![image](https://github.com/ABHINEET4/RecipeFinder-Application/assets/108821830/e47f480a-cf2e-40c5-b37f-5c05fb3a0689)
+
+
+
+
