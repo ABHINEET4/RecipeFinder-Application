@@ -1,5 +1,7 @@
 # RecipeFinder-Application
 
+Hosted Website Link :- https://calm-pothos-3fd0d5.netlify.app/
+
 RecipeFinder is an online recipe application that brings culinary inspiration to your fingertips. 
 Discover a world of delicious recipes, beautifully presented, and ready to inspire your next meal. 
 This project showcases the power of React, React Router, Tailwind CSS, data fetching, and CSS animations to create an immersive and visually appealing cooking experience.
